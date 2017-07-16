@@ -1,7 +1,10 @@
 # SNLC
 This is the MATLAB implementation of the registration-based approach to sensor network localization using clique described in the following paper: 
+
 [1] R. Sanyal, M. Jaiswal, and K. N. Chaudhury, "On a Registration-Based Approach to Sensor Network Localization", Accepted in IEEE Transactions on Signal Processing. 
+
 If you find SNLC useful in your work, please cite the paper. 
+
 Authors: Rajat Sanyal and Kunal Narayan Chaudhury.
 
 Date: July 2017.
@@ -15,6 +18,7 @@ To run the software:
 ================================================================== 
 
 (1) Sensor network localization: 
+
 [XEST,Time] = SNLC(DD,Xa,d)
 
 %% Input: 
